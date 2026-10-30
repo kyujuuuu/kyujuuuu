@@ -2,11 +2,11 @@
 
 # kenneth julés
 
-**QA** · Playwright automation
+**QA** · Playwright Automation
 
 <br>
 
-I test the edges, automate the repeatable,<br>
+test the edges, automate the repeatable,<br>
 and keep releases boring.
 
 <br><br>
