@@ -15,8 +15,6 @@ and keep releases boring.
 
 </div>
 
----
-
 ## focus
 
 - **Automation** — Playwright end-to-end and smoke suites that follow real user journeys.
@@ -27,7 +25,7 @@ and keep releases boring.
 
 Deep in Playwright — auth flows, fixtures, traces, and the endless war on flaky tests.
 
----
+<br>
 
 <div align="center">
 <sub>Philippines · GMT+8 · <a href="https://github.com/kyujuuuu?tab=repositories">repositories</a></sub>
