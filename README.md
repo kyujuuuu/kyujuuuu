@@ -3,20 +3,20 @@
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <img src="./assets/hero-dark.svg" alt="Kenneth Julés — Flutter developer building Cropix, a field companion for pechay growers" width="100%">
+  <img src="./assets/hero-dark.svg" alt="Kenneth Julés — QA engineer finding the cracks before users do" width="100%">
 </picture>
 
 <br><br>
 
-Flutter developer in the Philippines, building practical mobile tools.<br>
-Currently making **[Cropix](https://github.com/kyujuuuu/Cropix)** — a field companion for pechay growers.
+QA engineer in the Philippines.<br>
+I care about edge cases, clear repro steps, and releases that don't surprise anyone.
 
 <br><br>
 
-`flutter` &nbsp;`dart` &nbsp;`firebase` &nbsp;`firestore` &nbsp;`javascript`
+`playwright` &nbsp;`typescript` &nbsp;`github actions` &nbsp;`manual qa`
 
 <br><br>
 
-[cropix ↗](https://github.com/kyujuuuu/Cropix) &nbsp;·&nbsp; [repositories ↗](https://github.com/kyujuuuu?tab=repositories)
+[repositories ↗](https://github.com/kyujuuuu?tab=repositories)
 
 </div>
