@@ -2,7 +2,7 @@
 
 # kenneth julés
 
-**QA Engineer** · Playwright automation
+**QA** · Playwright automation
 
 <br>
 
