@@ -6,8 +6,6 @@
 
 <br>
 
-Test the edges, automate the repeatable,<br>
-and keep releases boring.
 
 <br><br>
 
