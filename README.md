@@ -18,7 +18,5 @@ and keep releases boring.
 
 ## now
 
-Deep in Playwright — auth flows, fixtures, traces, and the endless war on flaky tests.
 
-<br>
 
