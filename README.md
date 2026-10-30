@@ -15,11 +15,6 @@ and keep releases boring.
 
 </div>
 
-## focus
-
-- **Automation** — Playwright end-to-end and smoke suites that follow real user journeys.
-- **Exploration** — manual passes across edge cases, empty states, and the paths nobody clicks.
-- **Signal** — traces, screenshots, and repro steps that make bugs easy to fix.
 
 ## now
 
