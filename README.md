@@ -22,6 +22,3 @@ Deep in Playwright — auth flows, fixtures, traces, and the endless war on flak
 
 <br>
 
-<div align="center">
-<sub>Philippines · GMT+8 · <a href="https://github.com/kyujuuuu?tab=repositories">repositories</a></sub>
-</div>
